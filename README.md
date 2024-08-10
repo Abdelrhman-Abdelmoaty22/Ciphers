@@ -38,7 +38,7 @@ The Vigenère cipher is a method of encrypting text by using a series of differe
 To get started with these scripts, you'll need Python installed on your system. Clone the repository and navigate to the directory containing the scripts.
 
 
-    `git clone https://github.com/yourusername/encryption-algorithms-python.git`
+    git clone https://github.com/yourusername/encryption-algorithms-python.git
     cd encryption-algorithms-python
 # Usage
 Each script can be run directly from the command line. They typically require input text and a key. Below is an example of how to run `Cezar.py`:
