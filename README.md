@@ -1,4 +1,4 @@
-# Encryption Algorithms in Python
+#  Encryption Algorithms in Python
 This repository contains a collection of Python scripts implementing various classical encryption algorithms. Each script demonstrates the core principles behind these algorithms, making it an excellent resource for learning and experimentation.
 
 # Overview
@@ -12,7 +12,7 @@ The PlayFair cipher is a digraph substitution cipher that encrypts pairs of lett
     * Key matrix generation
     * Handling of digraphs and padding
     * Encryption and decryption functions
-# 'Cezar.py'
+# `Cezar.py`
 The Caesar cipher is one of the earliest and simplest encryption techniques. This script demonstrates:
 
     * Shifting of characters based on a key
